@@ -1,0 +1,103 @@
+.navbar-brand{
+    padding-left: 100px;
+    justify-content: end;
+    color: #ffde11;
+}
+.navbar navbar-expand-sm bg-dark navbar-dark sticky-top{
+    display: flex;
+}
+.button{
+    background-color: #ffde11;
+}
+.viagra {
+    padding-left: 500px;
+}
+.v2{
+padding-left: 480px;
+}
+.blank{
+    height: 500px;
+    width: 100%;
+}
+.mit{
+    padding-left: 50px;
+}
+.mit2{
+    padding-left: 50px;
+}
+.final{
+    padding-left: 420px;
+}
+.final_2{
+    padding-left: 300px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+.heading{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.after{
+    background-color: #55ff3b;
+    color: #ffebf4;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ff160c;
+}
+.heading{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.after{
+    background-color: #55ff3b;
+    color: #ffebf4;
+}
+.class heading{
+    color: aliceblue;
+}
+.foot{
+    height:1000px;
+}
